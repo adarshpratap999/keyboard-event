@@ -1,0 +1,12 @@
+body{
+    font-family: tahoma;
+    background:url("ll.jpg") ;
+
+}
+#form{
+    width: 250px;
+    margin: 100PX ;
+    border-radius: 15px;
+    padding: 25px;
+    background-color: blue;
+}
